@@ -1,0 +1,13 @@
+To: Arianna, Vitoria, Dan
+From: World Data Science Foundation
+Date: Sept 25 2018
+
+The World Data Science Foundation is planning a Parade of 3 Million Data Scientists in New York City to celebrate World Data Day. It will be the world's largest Parade, and we want march in Midtown and are considering a route up Fifth Avenue. The parade will start on 42nd Street. 
+
+We will provide volunteers at key subway stations to assist with crowd control. We want want to avoid bottlenecks and congestion on the day of the parade, with a focus on Grand Central Terminal.
+
+Please assist us in deciding how to best deploy volunteer guides in the station.
+
+Best Regards,
+- World Data Science Foundation 
+
